@@ -1,6 +1,6 @@
 ## AST
 
-`not in alphabetical order`
+`All definitions are not in alphabetical order`
 
 ![Tree with leaves](https://thumbs.dreamstime.com/b/tree-leaves-vector-silhouette-62938020.jpg)
 
