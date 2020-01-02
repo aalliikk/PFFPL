@@ -11,3 +11,5 @@
  * **sort** - the arrangement of data in a prescribed sequence;   
 
 **Arity** - friendly relations; 
+
+**Polynomial** - consisting of several terms; 
