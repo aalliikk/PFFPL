@@ -2,7 +2,7 @@
 
 `not in alphabetical order`
 
-![Tree leave](http://1.bp.blogspot.com/-UnpYXHtT_Zg/T52oxUgwG6I/AAAAAAAAFrU/73dJOsclbZY/s1600/Acer%2Bpseudoplatanus%2BL%2BSycamore%2Bmaple%2Bleaf.JPG)
+![Tree with leaves](https://thumbs.dreamstime.com/b/tree-leaves-vector-silhouette-62938020.jpg)
 
 **AST** stands for _abstract syntax tree_, is an ordered tree whose leaves are variables, ad whose interior nodes are operators whose arguments are its childre. 
 
